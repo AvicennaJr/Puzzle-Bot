@@ -1,3 +1,10 @@
+"""
+
+A Telegram Puzzle Game
+
+By Mojo
+"""
+
 from pyrogram import Client, filters, emoji
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 import random
